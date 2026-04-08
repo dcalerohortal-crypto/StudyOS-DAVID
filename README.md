@@ -1,1 +1,1 @@
-# StudyOS-DAVID
+# StudyOS-
